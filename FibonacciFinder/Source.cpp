@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//int fibonacci(int n);
+int fibonacci(int n);
 
 int main() {
 	int usr;
