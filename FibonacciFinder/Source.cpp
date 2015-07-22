@@ -29,9 +29,6 @@ int main() {
 int fibonacci(int n) {
 	int a = 0;
 	int b = 1;
-	int num;
-	int a = 0;
-	int b = 1;
 	int c;
 	for (int i=0; i<n; i++) {
 		c = a + b;
